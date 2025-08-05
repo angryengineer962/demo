@@ -1,0 +1,3 @@
+OS: Linux
+Protocol: SMB
+Kernel: Monolith
