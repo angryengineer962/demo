@@ -1,3 +1,5 @@
 OS: Linux
-Protocol: SMB
+Protocol: TLS1.1
 Kernel: Monolith
+
+Variable: x,y,z
