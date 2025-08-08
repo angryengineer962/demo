@@ -1,3 +1,6 @@
 OS: Linux
-Protocol: NTP
+Protocol: NTP, TLS1.1
+Protocol:
 Kernel: Monolith
+
+Variable: x,y,z
