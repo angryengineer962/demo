@@ -1,4 +1,6 @@
 Cash: 250
 Color: Blue
 Car: Toyota
-Owner: Tom
+Owner: Tom123
+Project: Gold
+RAID: 0
